@@ -1,0 +1,4 @@
+C:\inetpub\wwwroot\TestDnn\bin\DNNModule1.dll
+C:\inetpub\wwwroot\TestDnn\bin\DNNModule1.pdb
+C:\inetpub\wwwroot\TestDnn\DesktopModules\DNNModule1\obj\Debug\DNNModule1.dll
+C:\inetpub\wwwroot\TestDnn\DesktopModules\DNNModule1\obj\Debug\DNNModule1.pdb

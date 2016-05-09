@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\TestDnn\bin\DNNModule1.dll
+C:\inetpub\wwwroot\TestDnn\bin\DNNModule1.pdb
+C:\inetpub\wwwroot\TestDnn\DesktopModules\DNNModule1\obj\Release\DNNModule1.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\TestDnn\DesktopModules\DNNModule1\obj\Release\DNNModule1.dll
+C:\inetpub\wwwroot\TestDnn\DesktopModules\DNNModule1\obj\Release\DNNModule1.pdb
